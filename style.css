@@ -6,7 +6,7 @@
     display: inline-block;
     padding: 1px 20px 16px;
     margin:9px  20px;
-    /* box-sizing: border-bo; */
+ 
     
    
 }
@@ -31,11 +31,8 @@
 }
 .text{
     position: relative;
-    /* left:83px ; */
-    /* bottom: 398px; */
     padding:0px;
     display: inline-block;
-    /* background-color: azure; */
     font-size:40px;
 }
 a.btn.btn-primary  {
